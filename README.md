@@ -1,0 +1,3 @@
+- Raw file contains a mapping fo videoId to details of comment with rating raw.json
+- Out file contains stories sorted by rating (22 videos out of 68)
+- Ratings of format (*/10) were only found on 22 out of 68 videos
